@@ -4,6 +4,6 @@
 
 - Analyzing data with SPSS and Excel for forecasting electricity consumption trends.
 
-- Developing Android apps using Android Studio for efficient power consumption control.
+- Developing Android application using Android Studio for efficient power consumption control.
 
 - Focusing on renewable energy, particularly solar and thermal energy solutions for sustainable electricity generation.
